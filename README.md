@@ -32,8 +32,8 @@ I'm diving into networking and cloud tech to level up my skills and build cooler
 
 ## 📫 Connect With Me
 <!-- Add your social media links here -->
-- [LinkedIn](www.linkedin.com/in/sourosh-tahvilian)
-- [Email](soorosh.st@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sourosh-tahvilian)
+- [Email](mailto:soorosh.st@gmail.com)
 
 ---
 *Feel free to reach out for collaborations or questions about BMS systems and IoT development!*
