@@ -6,8 +6,8 @@
 I'm an IT enthusiast working in the BMS (Building Management Systems) industry. My journey started with Android development using Java and Android Studio, then expanded into web development, backend systems, and microcontroller programming.
 
 ## 🔧 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,androidstudio)]
 
 ## 💼 Professional Experience
 - **BMS Company** | *3+ years*
