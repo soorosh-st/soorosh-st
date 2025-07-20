@@ -6,12 +6,13 @@
 I'm an IT enthusiast working in the BMS (Building Management Systems) industry. My journey started with Android development using Java and Android Studio, then expanded into web development, backend systems, and microcontroller programming.
 
 ## 🔧 Skills
-![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
-![My Skills](https://skillicons.dev/icons?i=java,c,cpp,androidstudio)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,java,flutter,dart,arduino,raspberrypi)
+![My Skills](https://skillicons.dev/icons?i=,c,cpp,postman,php,xd,wordpress)
 
 ## 🌱 Currently Learning
-I'm expanding my horizons into networking and cloud technologies to build more scalable and robust systems.
-![Learning](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,networking)
+I'm diving into networking and cloud tech to level up my skills and build cooler systems!
+
+![Learning](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,networking,linux,py)
 
 ## 💼 Professional Experience
 - **BMS Company** | *3+ years*
@@ -32,7 +33,6 @@ I'm expanding my horizons into networking and cloud technologies to build more s
 ## 📫 Connect With Me
 <!-- Add your social media links here -->
 - [LinkedIn](www.linkedin.com/in/sourosh-tahvilian)
-- [GitHub](https://github.com/soorosh-st)
 - [Email](soorosh.st@gmail.com)
 
 ---
