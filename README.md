@@ -15,7 +15,7 @@ I'm diving into networking and cloud tech to level up my skills and build cooler
 ![Learning](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,py)
 
 ## 💼 Professional Experience
-- **BMS Company** | *3+ years*
+- **BMS Company** | *~3 years*
   - Developing smart building solutions including:
     - Smart key systems
     - smartRelay controls
