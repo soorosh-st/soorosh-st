@@ -12,7 +12,7 @@ I'm an IT enthusiast working in the BMS (Building Management Systems) industry. 
 ## 🌱 Currently Learning
 I'm diving into networking and cloud tech to level up my skills and build cooler systems!
 
-![Learning](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,networking,linux,py)
+![Learning](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,py)
 
 ## 💼 Professional Experience
 - **BMS Company** | *3+ years*
