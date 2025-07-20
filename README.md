@@ -9,6 +9,10 @@ I'm an IT enthusiast working in the BMS (Building Management Systems) industry. 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
 ![My Skills](https://skillicons.dev/icons?i=java,c,cpp,androidstudio)
 
+## 🌱 Currently Learning
+I'm expanding my horizons into networking and cloud technologies to build more scalable and robust systems.
+![Learning](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,networking)
+
 ## 💼 Professional Experience
 - **BMS Company** | *3+ years*
   - Developing smart building solutions including:
