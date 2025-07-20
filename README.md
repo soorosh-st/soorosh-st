@@ -7,7 +7,7 @@ I'm an IT enthusiast working in the BMS (Building Management Systems) industry. 
 
 ## 🔧 Skills
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,java,flutter,dart,arduino,raspberrypi)
-![My Skills](https://skillicons.dev/icons?i=,c,cpp,postman,php,xd,wordpress)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,postman,php,xd,wordpress)
 
 ## 🌱 Currently Learning
 I'm diving into networking and cloud tech to level up my skills and build cooler systems!
