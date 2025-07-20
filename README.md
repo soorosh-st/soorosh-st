@@ -3,7 +3,7 @@
 ![Banner](./banner.gif)
 
 ## About Me
-I'm a 25-year-old IT professional with 3+ years of experience in the BMS (Building Management Systems) industry. My journey started as an Android developer using Java and Android Studio, then expanded into web development, backend systems, and microcontroller programming.
+I'm an IT enthusiast working in the BMS (Building Management Systems) industry. My journey started with Android development using Java and Android Studio, then expanded into web development, backend systems, and microcontroller programming.
 
 ## 🔧 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
@@ -13,9 +13,10 @@ I'm a 25-year-old IT professional with 3+ years of experience in the BMS (Buildi
 - **BMS Company** | *3+ years*
   - Developing smart building solutions including:
     - Smart key systems
-    - Smart relay controls
+    - smartRelay controls
     - Touch panel interfaces
     - Thermostats and sensors
+    - Smart seonsors 
   - Programming microcontrollers (ATmega, ESP) using C/C++
 
 ## 🌱 Background
@@ -26,9 +27,9 @@ I'm a 25-year-old IT professional with 3+ years of experience in the BMS (Buildi
 
 ## 📫 Connect With Me
 <!-- Add your social media links here -->
-- [LinkedIn](#)
+- [LinkedIn](www.linkedin.com/in/sourosh-tahvilian)
 - [GitHub](https://github.com/soorosh-st)
-- [Email](#)
+- [Email](soorosh.st@gmail.com)
 
 ---
 *Feel free to reach out for collaborations or questions about BMS systems and IoT development!*
